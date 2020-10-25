@@ -1,0 +1,20 @@
+/* Regular */
+
+@font-face {
+    font-family: 'Kardinal Extra Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Kardinal Extra Bold'), url('lettersoup - Kardinal-ExtraBold.woff') format('woff');
+    }
+
+h1 {
+    font-family: 'Kardinal Extra Bold';
+    font-weight: 300;
+    color: rgb(105, 107, 6);
+    text-shadow: 5px 5px #f5ef99;
+}
+
+input {
+    height: 30px;
+    padding: 20px;
+}
