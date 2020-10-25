@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/boulderfriends/static/css/main.2cdad034.chunk.css",
+    "main.js": "/boulderfriends/static/js/main.4d8a559c.chunk.js",
+    "main.js.map": "/boulderfriends/static/js/main.4d8a559c.chunk.js.map",
+    "runtime-main.js": "/boulderfriends/static/js/runtime-main.acba0d4b.js",
+    "runtime-main.js.map": "/boulderfriends/static/js/runtime-main.acba0d4b.js.map",
+    "static/css/2.b97b5188.chunk.css": "/boulderfriends/static/css/2.b97b5188.chunk.css",
+    "static/js/2.fc620248.chunk.js": "/boulderfriends/static/js/2.fc620248.chunk.js",
+    "static/js/2.fc620248.chunk.js.map": "/boulderfriends/static/js/2.fc620248.chunk.js.map",
+    "static/js/3.24c8d982.chunk.js": "/boulderfriends/static/js/3.24c8d982.chunk.js",
+    "static/js/3.24c8d982.chunk.js.map": "/boulderfriends/static/js/3.24c8d982.chunk.js.map",
+    "index.html": "/boulderfriends/index.html",
+    "static/css/2.b97b5188.chunk.css.map": "/boulderfriends/static/css/2.b97b5188.chunk.css.map",
+    "static/css/main.2cdad034.chunk.css.map": "/boulderfriends/static/css/main.2cdad034.chunk.css.map",
+    "static/js/2.fc620248.chunk.js.LICENSE.txt": "/boulderfriends/static/js/2.fc620248.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/boulderfriends/static/media/lettersoup - Kardinal-ExtraBold.0742216f.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acba0d4b.js",
+    "static/css/2.b97b5188.chunk.css",
+    "static/js/2.fc620248.chunk.js",
+    "static/css/main.2cdad034.chunk.css",
+    "static/js/main.4d8a559c.chunk.js"
+  ]
+}
